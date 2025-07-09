@@ -1,2 +1,20 @@
-2025-07-09T07:45:10.421088 - GET http://127.0.0.1:5000/ - Body: 
-2025-07-09T07:45:10.782175 - GET http://127.0.0.1:5000/favicon.ico - Body: 
+[2025-07-09T08:44:30.915790] POST /shorturls - {
+  "url": "https://careerhubs.info/",
+  "validity": 10,
+  "shortcode": ""
+}
+
+[2025-07-09T08:44:48.183573] OPTIONS /shorturls - 
+[2025-07-09T08:44:48.189139] POST /shorturls - {"url":"http://localhost:5173/","validity":30,"shortcode":""}
+[2025-07-09T08:45:13.434828+00:00] POST /shorturls - {
+  "url": "https://careerhubs.info/",
+  "validity": 10,
+  "shortcode": ""
+}
+
+[2025-07-09T08:45:41.804395+00:00] POST /shorturls - {
+  "url": "https://careerhubs.info/",
+  "validity": 10,
+  "shortcode": ""
+}
+
